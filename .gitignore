@@ -1,0 +1,25 @@
+# Build outputs
+znxj111/mdk/Objects/
+znxj111/mdk/Listings/
+znxj111/iar/program/settings/
+
+# Keil/IAR generated files
+*.o
+*.d
+*.axf
+*.map
+*.htm
+*.lnp
+*.dep
+*.dnx
+*.jlink
+*.uvguix.*
+*.uvgui.*
+JLinkSettings.ini
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
