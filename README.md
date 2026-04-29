@@ -109,6 +109,10 @@ Target_Speed_B =  1/3 * Vx - sqrt(3)/3 * Vy + 1/3 * V_angle;
 - `T_M` 航向角在超过正负 360 度后会清零，角度跨界场景要谨慎处理。
 - `my_rate` 用于触发任务状态切换，来源为 MCX 视觉框尺寸计算。
 
+## 作者
+
+Lyu Ziheng
+
 ## 许可证
 
 底层库来自逐飞 RT1064DVL6A 开源库，相关许可证文件保留在 `libraries/` 与 `libraries/doc/` 中。用户业务代码请按实际项目要求补充授权说明。
